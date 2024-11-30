@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Meme Coin</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #f5f5f5;
+        }
+        header {
+            background-color: #4caf50;
+            color: white;
+            padding: 20px 0;
+        }
+        section {
+            margin: 20px auto;
+            padding: 20px;
+            max-width: 800px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+        a {
+            text-decoration: none;
+            color: #4caf50;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Meme Coin!</h1>
+        <p>The fun and futuristic cryptocurrency!</p>
+    </header>
+    <section>
+        <h2>About Meme Coin</h2>
+        <p>Our Meme Coin is designed to bring joy and utility to the crypto world. Join the movement!</p>
+        <h3>How to Get Started</h3>
+        <ul>
+            <li><a href="#">Learn More</a></li>
+            <li><a href="#">Buy Meme Coin</a></li>
+            <li><a href="#">Join Our Community</a></li>
+        </ul>
+    </section>
+    <footer>
+        <p>© 2024 My Meme Coin. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
